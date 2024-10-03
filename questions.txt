@@ -1,0 +1,707 @@
+0
+vous
+avoir
+vous avons
+vous achetez
+*vous avez
+vous êtes
+1
+je/j'
+étudier
+je étudier
+je écouteur
+*j'étudie
+j'etudier
+2
+ils/elles
+faire
+ils/elles sont
+ils/elles ont
+*ils/elles font
+ils/elles fait
+3
+tu
+venir
+tu vient
+*tu viens
+tu vois
+tu as
+4
+il/elle
+aller
+*il/elle va
+il/elle allons
+il/elle a
+il/elle est
+5
+je/j'
+adorer
+je adore
+*j'adore
+je adores
+j'adorer
+6
+tu
+aider
+*tu aides
+tu aide
+tu aider
+tu aident
+7
+il/elle
+aimer
+il/elle aimes
+il/elle aimer
+*il/elle aime
+il/elle aiment
+8
+nous
+étudier
+*nous étudions
+nous étudies
+nous étudier
+nous étudiez
+9
+vous
+arroser
+vous arrose
+*vous arrosez
+vous arrosons
+vous arroser
+10
+ils/elles
+chanter
+ils/elles chante
+ils/elles chanter
+*ils/elles chantent
+ils/elles chantes
+11
+je/j'
+chercher
+je cherchons
+je chercher
+j' cherches
+*je cherche
+12
+tu
+conseiller
+*tu conseilles
+tu conseille
+tu conseillent
+tu conseiller
+13
+il/elle
+écouter
+il/elle écoutes
+*il/elle écoute
+il/elle écoutez
+il/elle étudier
+14
+nous
+cuisiner
+nous cuisinez
+nous cuisiner
+*nous cuisinons
+nous couisine
+15
+vous
+danser
+vous danse
+vous dansent
+vous danses
+*vous dansez
+16
+ils/elles
+décider
+*ils/elles décident
+ils/elles dédcide
+ils/elles décides
+ils/elles décidez
+17
+je/j'
+déjeuner
+j'déjeune
+*je déjeune
+je déjeuner
+j'déjunes
+18
+tu
+demander
+tu demandent
+tu demandez
+*tu demands
+tu demand
+19
+il/elle
+désirer
+il/elle désires
+il/elle désirent
+il/elle désirez
+*il/elle désire
+20
+nous
+détester
+*nous détestons
+nous détestez
+nous détestent
+nous détests
+21
+vous
+dîner
+vous dînes
+*vous dînez
+vous dînons
+vous dîner
+22
+ils/elles
+discuter
+ils/elles discute
+ils/elles discutons
+*ils/elles discutent
+ils/elles discutez
+23
+je/j'
+donner
+je donner
+j' donne
+je donnez
+*je donne
+24
+tu
+habiter
+*tu habites
+tu habiter
+tu habitons
+tu habite
+25
+il/elle
+habiter
+il/elle habites
+*il/elle habite
+il/elle habitons
+il/elle habitez
+26
+nous
+jouer
+nous jouez
+nous jouer
+*nous jouons
+nous jouez
+27
+vous
+laver
+vous lavent
+vous laves
+vous laves
+*vous lavez
+28
+ils/elles
+montrer
+*ils/elles montrent
+ils/elles montres
+ils/elles montrer
+ils/elles montrons
+29
+je/j'
+passer
+je passes
+*je passe
+j'passe
+je passer
+30
+tu
+porter
+tu porte
+tu portez
+*tu portes
+tu portent
+31
+il/elle
+recommander
+il/elle recommandez
+il/elle recommandent
+il/elle recommands
+*il/elle recommande
+32
+nous
+regarder
+*nous regardons
+nous regarder
+nous regardent
+nous regardes
+33
+vous
+téléphoner
+vous téléphoner
+*vous téléphonez
+vous téléphones
+vous téléphonons
+34
+ils/elles
+travailler
+ils/elles travaille
+ils/elles travaillez
+*ils/elles travaillent
+ils/elles travaillons
+35
+je/j'
+vider
+je vides
+j'vide
+je videz
+*je vide
+36
+tu
+vendre
+*tu vends
+tu vend
+tu vendons
+tu vendre
+37
+il/elle
+parler
+il/elle parles
+*il/elle parle
+il/elle parler
+il/elle parlez
+38
+nous
+attendre
+nous attends
+nous attend
+*nous attendons
+nous attendez
+39
+vous
+entendre
+vous entends
+vous entendre
+vous entendent
+*vous entendez
+40
+ils/elles
+perdre
+*ils/elles perdent
+ils/elles perdez
+ils/elles perdons
+ils/elles perds
+41
+je/j'
+rendre
+je rend
+*je rends
+j'rends
+je rendre
+42
+tu
+répondre
+tu répond
+tu répondons
+tu répondez
+*tu réponds
+43
+nous
+choisir
+*nous choisissons
+nous choisissez
+nous choisissent
+nous choisis
+44
+vous
+grandir
+vous grandissons
+*vous grandissez
+vous grandissent
+vous grandis
+45
+il/elle
+finir
+il/elle finis
+il/elle finissez
+*il/elle finit
+il/elle finir
+46
+ils/elles
+grossir
+ils/elles grossissez
+ils/elles grossissons
+ils/elles grossit
+*ils/elles grossissent
+47
+je/j'
+maigrir
+*je maigris
+j'maigrissez
+je magrir
+je maigrit
+48
+tu
+réussir
+tu réussit
+*tu réussis
+tu réussir
+tu réussissez
+49
+il/elle
+commencer
+il/elle commences
+il/elle commençons
+*il/elle commence
+il/elle commencent
+50
+nous
+avancer
+nous avancez
+nous avancent
+nous avance
+*nous avançons
+51
+vous
+effacer
+*vous effacez
+vous effacent
+vous efface
+vous effaçons
+52
+ils/elles
+lancer
+ils/elles lance
+*ils/elles lancent
+ils/elles lancez
+ils/elles lançons
+53
+je/j'
+placer
+je placez
+j'place
+*je place
+je placer
+54
+tu
+prononcer
+tu prononcez
+tu prononçons
+tu prononce
+*tu prononces
+55
+il/elle
+remplacer
+*il/elle remplace
+il/elle remplacer
+il/elle remplacez
+il/elle remplacent
+56
+nous
+manger
+nous mangons
+*nous mangeons
+nous mangent
+nous mange
+57
+vous
+changer
+vous changent
+vous changons
+*vous changez
+vous change
+58
+ils/elles
+corriger
+ils/elles corrige
+ils/elles corriges
+ils/elles corrigeons
+*ils/elles corrigent
+59
+je/j'
+déranger
+*je dérange
+j'dérange
+je dérangeons
+j' déranges
+60
+tu
+échanger
+tu échange
+*tu échanges
+tu échangez
+tu échangent
+61
+il/elle
+encourager
+il/elle encourages
+il/elle encouragent
+*il/elle encourage
+il/elle encourageons
+62
+nous
+nager
+nous nager
+nous nagez
+nous nagent
+*nous nageons
+63
+vous
+ranger
+*vous rangez
+vous rangeons
+vous rangent
+vous range
+64
+ils/elles
+voyager
+ils/elles voyager
+ils/elles voyage
+*ils/elles voyagent
+ils/elles voyages
+65
+je/j'
+boire
+je boit
+j'buvons
+j'bois
+*je bois
+66
+tu
+dormir
+*tu dors
+tu dort
+tu dormis
+tu dormez
+67
+il/elle
+être
+il/elle sont
+*il/elle est
+il/elle es
+il/elle suis
+68
+nous
+lire
+nous lirons
+nous lit
+*nous lisons
+nous lisent
+69
+vous
+prendre
+vous prendons
+vous prennent
+vous prendez
+*vous prenez
+70
+ils/elles
+vouloir
+*ils/elles veulent
+ils/elles veux
+ils/elles veut
+ils/elles voulons
+71
+je/j'
+prendre
+je prendre
+*je prends
+j'prends
+je prendons
+72
+tu
+vouloir
+tu veut
+tu voulez
+*tu veux
+tu veulent
+73
+il/elle
+voir
+il/elle vois
+il/elle voient
+il/elle voyez
+*il/elle voit
+74
+nous
+aller
+*nous allons
+nous allez
+nous vont
+nous alle
+75
+vous
+boire
+vous boivent
+*vous buvez
+vous bouvons
+vous bois
+76
+ils/elles
+dormir
+ils/elles dors
+ils/elles dort
+*ils/elles dorment
+ils/elles dormez
+77
+je/j'
+danser
+je dansent
+j'danses
+je danses
+*je danse
+78
+tu
+rendre
+*tu rends
+tu rendre
+tu rend
+tu rendez
+79
+il/elle
+vendre
+il/elle vends
+*il/elle vend
+il/elle vendent
+il/elle vendre
+80
+nous
+grandir
+nous grandissent
+nous grandissez
+*nous grandissons
+nous grandir
+81
+vous
+choisir
+vous choisir
+vous choisis
+vous choisissons
+*vous choisissez
+82
+ils/elles
+étudier
+*ils/elles étudient
+ils/elles étudie
+ils/elles étudions
+ils/elles étudies
+83
+je/j'
+voyager
+je voyages
+*je voyage
+j'voyage
+je voyager
+84
+tu
+surfer
+tu surfer
+tu surfe
+*tu surfes
+tu surfons
+85
+nous
+effacer
+nous effacez
+nous effacent
+nous efface
+*nous effaçons
+86
+vous
+corriger
+*vous corrigez
+vous corriger
+vous corrigons
+vous corrigent
+87
+ils/elles
+échanger
+ils/elles échange
+*ils/elles échangent
+ils/elles échangeons
+ils/elles échangez
+88
+il/elle
+avancer
+il/elle avancer
+il/elle avancent
+*il/elle avance
+il/elle avançons
+89
+je/j'
+avoir
+je as
+je avons
+je ai
+*j'ai
+90
+tu
+déjeuner
+*tu déjeunes
+tu déjeuner
+tu déjeune
+tu déjeunons
+91
+il/elle
+jouer
+il/elle jouer
+*il/elle joue
+il/elle joues
+il/elle jouons
+92
+nous
+porter
+nous portez
+nous porte
+*nous portons
+nous portez
+93
+vous
+recommander
+vous recommander
+vous recommande
+vous recommandent
+*vous recommandez
+94
+ils/elles
+habiter
+*ils/elles habitent
+ils/elles habiter
+ils/elles habite
+ils/elles habites
+95
+je/j'
+nager
+je nager
+*je nage
+j'nage
+je nages
+96
+tu
+changer
+tu change
+tu changent
+*tu changes
+tu changer
+97
+il/elle
+lancer
+il/elle lances
+il/elle lancer
+il/elle lançons
+*il/elle lance
+98
+nous
+commencer
+*nous commençons
+nous commencent
+nous commencez
+nous commence
+99
+vous
+remplacer
+vous remplacent
+*vous remplacez
+vous remplaçons
+vous remplace
+100
+ils/elles
+voir
+ils/elles vois
+ils/elles voit
+*ils/elles voient
+ils/elles voyons

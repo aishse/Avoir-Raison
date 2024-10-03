@@ -1,0 +1,13 @@
+Press ENTER to shoot the ball at one of the colored boxes. The higher the box is, the more points you can earn!
+
+To quit the game press BACKSPACE and you'll be redirected to the main menu.
+
+If you miss a box or take too much time in shooting, you lose a life and answer a conjugation question.
+
+If you miss a box AND get a question wrong, you'll lose two lives.
+
+The questions consist of regular and irregular verbs in the French language and will pop up after you score a certain amount of points in game.
+
+Answering any of the pop up questions earns you five points. The game ends if you lose all your lives.
+
+Bonne chance!
